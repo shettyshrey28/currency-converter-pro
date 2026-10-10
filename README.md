@@ -35,7 +35,7 @@ Streamlit will display a local URL, usually `http://localhost:8501`. This addres
 
 If you are viewing this repository because you want to use the application, you do **not** need to deploy it yourself. Open the project's published web-app link (add it here after deployment), and use the converter in your browser.
 
-> **Live app:** Not published yet. A live link will be added here after the project owner deploys the application.
+> https://currency-converter-pro-9htkqwsdazdxcpnphveejj.streamlit.app
 
 ## Project structure
 
